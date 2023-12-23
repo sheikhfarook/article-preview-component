@@ -1,10 +1,10 @@
 import "./App.css";
-import Img from "./components/img";
+import Article from "./components/article";
 
 function App() {
   return (
     <div>
-      <Img />
+      <Article />
     </div>
   );
 }
