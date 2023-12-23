@@ -1,7 +1,12 @@
 import "./App.css";
+import Img from "./components/img";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Img />
+    </div>
+  );
 }
 
 export default App;
